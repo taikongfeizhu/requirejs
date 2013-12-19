@@ -1,0 +1,1 @@
+define([],function(){return{createStudent:function(e,t){return{name:e,gender:t}}}});
